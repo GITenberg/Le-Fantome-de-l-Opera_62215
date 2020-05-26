@@ -1,5 +1,8 @@
 _repo: Le-Fantome-de-l-Opera_62215
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62215-h/images/fantome_cover.jpg
 creator:
   author:
     agent_name: Leroux, Gaston
@@ -11,6 +14,8 @@ creator:
     - https://fr.wikipedia.org/wiki/Gaston_Leroux
     - https://en.wikipedia.org/wiki/Gaston_Leroux
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62215#Le-Fantome-de-l-Opera
 gutenberg_issued: '2020-05-24'
 gutenberg_type: Text
 identifiers:
